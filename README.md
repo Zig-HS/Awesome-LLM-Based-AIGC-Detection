@@ -1,4 +1,4 @@
-# Awesome MLLM-Based AIGC Detection
+# Awesome LLM-Based AIGC Detection
 
 A curated list of research papers on detecting AI-Generated Content (AIGC) using Multimodal Large Language Models (MLLMs).
 
