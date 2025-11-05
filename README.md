@@ -2,6 +2,8 @@
 
 A curated list of research papers on detecting AI-Generated Content (AIGC) using Multimodal Large Language Models (MLLMs).
 
+Additionally, we provide a analysis (Chinese version) for some of the papers! Details refer to [PaperAnalysis.md](./PaperAnalysis.md).
+
 > 📌 **Contributions are welcome!** If you know of a relevant paper not listed here, please submit a PR or open an issue.
 
 ---
